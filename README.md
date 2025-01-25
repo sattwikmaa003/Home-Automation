@@ -52,6 +52,5 @@ Blynk.virtualWrite(V1,pirValue);
 void loop()
 {
 getPirValue();
-
 Blynk.run();
 }
